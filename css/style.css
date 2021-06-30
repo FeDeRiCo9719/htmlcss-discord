@@ -6,3 +6,19 @@
 }
 
 /*---------------------- COMMON ----------------------*/
+
+/*---------------------- HEADER ----------------------*/
+header {
+    background-color: cadetblue;
+    max-width: 100%;
+}
+/*---------------------- CONTAINER ----------------------*/
+.container {
+    background-color: rgb(82, 204, 88);
+    max-width: 80%;
+    margin: auto;
+}
+.logo, nav, nav li{
+    display: inline-block;
+    vertical-align: middle;
+}
